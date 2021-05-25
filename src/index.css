@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.slideMenu {
+  position: left;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #060;
+  color: #fff;
+  font-size: 2em;
+  text-align: center;
+
+}
+
+.slideList {
+  list-style: none;
+}
